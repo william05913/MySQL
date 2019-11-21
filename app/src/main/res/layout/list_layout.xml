@@ -13,7 +13,7 @@
         card_view:cardElevation="6dp"
         card_view:cardCornerRadius="5dp"
         android:layout_margin="0dp"
-        card_view:cardBackgroundColor="#E4E9EC"
+        card_view:cardBackgroundColor="#6FB0D8"
         android:foreground="?android:attr/selectableItemBackground"
         android:clickable="true"
         >
