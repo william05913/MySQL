@@ -11,7 +11,7 @@
         android:centerX="35%"
         android:centerColor="#2196F3"
         android:startColor="#FFFFFF"
-        android:endColor="#2196F3"
+        android:endColor="#CADEEE"
         android:type="linear"
         />
     <padding
