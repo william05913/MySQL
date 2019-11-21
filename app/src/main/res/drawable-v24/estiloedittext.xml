@@ -9,7 +9,7 @@
         android:centerY="50%"
         android:centerColor="#1E4C7E"
         android:startColor="#BD3636"
-        android:endColor="#FCFAFF"
+        android:endColor="#A693C2"
         android:type="radial"
         />
     <padding
